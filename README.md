@@ -143,17 +143,6 @@ My goal is to bridge the gap between raw data and real-world automation — and 
 <a href="https://github.com/thsantferr" align="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsantferr&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-	<a href="https://github.com/thsantferr/ds_project_delivery_on_time" align="left">
-		<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thsantferr&repo=ds_project_delivery_on_time&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" />
-	</a>
-	<a href="https://github.com/thsantferr/jogo_southpark" align="right">
-		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thsantferr&repo=jogo_southpark&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" />
-	</a>
-</div>
 <br />
 <br />
 <br />
